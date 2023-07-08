@@ -168,7 +168,7 @@ for an ed-tech platform, with a focus on security, reliability, and ease of use.
 right frameworks, libraries, and tools, we can ensure that the platform functions smoothly
 and provides an optimal user experience for all its users.
 
-![Database Schema](Images/schema.png)
+![Database Schema](images/schema.png)
 
 ## API Design
 
